@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/forks/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/devil-max78/CodexunMusicBot"> <img src="https://img.shields.io/github/forks/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/repo-size/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>    
     <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/stars/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
 </p>
